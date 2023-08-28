@@ -103,7 +103,7 @@ if __name__ == '__main__':
 
     md_table = writer.dumps()
 
-    with open(os.path.join(os.path.dirname(__file__), '..', 'README.md'), 'w') as readme:
+    with open(os.path.join(os.path.dirname(__file__), '..', 'profile', 'README.md'), 'w') as readme:
         print('''# EMERGE Biology Integration Institute
 
 Predictive understanding of ecosystem response to change has become a pressing societal need in the Anthropocene, and requires integration across disciplines, spatial scales, and timeframes. Developing a framework for understanding how different biological systems interact over time is a major challenge in biology. The National Science Foundation-funded EMergent Ecosystem Responses to ChanGE (EMERGE) Biology Integration Institute aims to develop such a framework by integrating research, training, and high-resolution field and laboratory measurements across 15 scientific subdisciplines–including ecology, physiology, genetics, biogeochemistry, remote sensing, and modeling–across 14 institutions, in order to understand ecosystem-climate feedbacks in Stordalen Mire, a thawing permafrost peatland in arctic Sweden. Rapid warming in the Arctic is driving permafrost thaw, and new availability of formerly-frozen soil carbon for cycling and release to the atmosphere, representing a potentially large but poorly constrained accelerant of climate change. This material is based upon work supported by the National Science Foundation under Grant Number 2022070.
