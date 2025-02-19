@@ -4,14 +4,7 @@ Predictive understanding of ecosystem response to change has become a pressing s
 
 In addition to the repositories hosted on this page, listed below are a number of the tools and codebases that members have developed for better understanding and integration of these datasets.
 
-# EMERGE tools
-
-## Related tool sets
-
-* [Sullivan Lab & Rich Lab scripts](https://bitbucket.org/MAVERICLab/), including virus ecology tools
-* [Tfaily Lab scripts](https://github.com/tfaily-lab), including mass spectrometry analytics & software tools
-
-## Specific tools
+## EMERGE tools
 
 ### M suite
 |                               Tool                                |                                         Description                                         |                                 Developers                                 |                 Citation                 |
@@ -56,3 +49,9 @@ In addition to the repositories hosted on this page, listed below are a number o
 | Tool                                                       | Description                                                                       | Developers                                                                   | Citation                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Phylogenetic Null Modeling](https://github.com/sljarvis2/Doherty_etal_2020) | Partitioning variation in phylogenetic data and attributing to assembly processes | Stacey Doherty (UNH alum), Jessica Ernakovich (based on Stegen et al., 2013) | Doherty, S.J., Barbato, R.A., Grandy, A.S., Thomas, W.K., Monteux, S., Dorrepaal, E., Johansson, M., & Ernakovich, J.G. (2020). The transition from stochastic to deterministic bacterial community assembly during permafrost thaw succession. Frontiers in Microbiology, 11, 596589. https://doi.org/10.3389/fmicb.2020.596589 |
+
+## Related organizations & tool sets
+* [Sullivan and Rich Labs](https://bitbucket.org/MAVERICLab/) (e.g., virus ecology tools)
+* [Tfaily Lab](https://github.com/tfaily-lab) (e.g., mass spectrometry analytics & software tools)
+* [Wrighton Lab](https://github.com/WrightonLabCSU)
+* [Centre for Microbiome Research (CMR)](https://github.com/centre-for-microbiome-research)
